@@ -3,7 +3,7 @@ id: hardware_specifications
 sidebar_position: 2
 ---
 
-## Hardware Specifications
+# Hardware Specifications
 
 ## CAN bus
 
@@ -27,7 +27,7 @@ The following picture shows: Stable connection of the USB to CAN module using th
 
 ## Other interfaces
 
-GPIO, PWM, I2C interfaces are under development, see [road map](TODO) for details.
+GPIO, PWM, I2C interfaces are under development, see [road map](road_map) for details.
 
 ## Module topology
 

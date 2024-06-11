@@ -3,7 +3,7 @@ id: intro
 sidebar_position: 1
 ---
 
-## Why rm-controls?
+# Why rm-controls?
 
 ## Very high code reuse rate
 

@@ -1,3 +1,3 @@
-# Copyed from rm-controls.github.io
+# Copyed from rm-control-docs.netlify.app
 
 ## It is the english version

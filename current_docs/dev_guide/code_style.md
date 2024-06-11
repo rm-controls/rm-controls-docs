@@ -106,7 +106,7 @@ clang-format 需要在 catkin 工作区的根目录下有一个配置文件，rm
 
 :::tip
 
-使用命令行太头疼了? 试试 [CLion IDE 配置 ](./ide_config).
+使用命令行太头疼了? 试试 [CLion IDE 配置 ](./clion_ide_config).
 
 :::
 

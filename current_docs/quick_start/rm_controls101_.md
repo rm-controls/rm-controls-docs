@@ -200,7 +200,7 @@ mkdir urdf launch config
 
 #### 从包安装
 
-请先[添加源](https://rm-controls.github.io/quick_start/rm_source)
+请先[添加源](/quick_start/rm_source)
 
     sudo apt install ros-noetic-rm-hw
 

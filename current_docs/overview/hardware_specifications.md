@@ -27,7 +27,7 @@ Jetson AGX Xavier/NX/TX2 和 妙算 2-G（TX2）都具有两个 build-in 的 CAN
 
 ## 其他接口
 
-GPIO、PWM、I2C 接口正在开发中，详见 [road map](TODO)。
+GPIO、PWM、I2C 接口正在开发中，详见 [road map](road_map)。
 
 ## 模块拓扑
 

@@ -3,7 +3,7 @@ id: rt_kernel
 sidebar_position: 3
 ---
 
-# Real-time kernel compilation
+# Real-time Kernel Compilation
 
 The [RT-Preempt](https://rt.wiki.kernel.org/index.php/Main_Page) is based on the Linux community kernel, with relevant patches to make Linux meet hard real-time requirements. Here is the compilation and configuration process, using kernel `5.6.19` as an example.
 

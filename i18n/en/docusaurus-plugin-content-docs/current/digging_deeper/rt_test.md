@@ -3,7 +3,7 @@ id: rt_test
 sidebar_position: 4
 ---
 
-## Test kernel real-time
+# Test Kernel Real-time
 
 ## Install the test script
 
@@ -12,7 +12,9 @@ Just pull this repository locally.
 
 ## Install script dependencies
 
-`sudo apt install rt-tests stress gnuplot`
+```shell
+sudo apt install rt-tests stress gnuplot
+```
 
 ## Run the test
 

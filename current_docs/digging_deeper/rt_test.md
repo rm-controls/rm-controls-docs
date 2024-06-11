@@ -12,7 +12,9 @@ sidebar_position: 4
 
 ## 安装脚本依赖
 
-`sudo apt install rt-tests stress gnuplot`
+```shell
+sudo apt install rt-tests stress gnuplot
+```
 
 ## 进行测试
 
