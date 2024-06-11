@@ -113,7 +113,7 @@ But please use it carefully.
 
 :::tip
 
-Too much of a headache to use the command line? Try [CLion IDE configuration](. /ide_config).
+Too much of a headache to use the command line? Try [CLion IDE configuration](./clion_ide_config).
 
 :::
 

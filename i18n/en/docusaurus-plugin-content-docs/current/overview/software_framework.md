@@ -3,7 +3,7 @@ id: software_framework
 sidebar_position: 3
 ---
 
-# Software framework
+# Software Framework
 
 ## rm-controls
 

@@ -9,7 +9,8 @@ We recommend using CLion IDE as the development IDE for electric and vision, see
 
 ## ROS configuration
 
-Refer to the [ROS setup tutorial](https://www.jetbrains.com/help/clion/ros-setup-tutorial.html) In addition, for compatibility with `catkin build` and `catkin_make` the following settings should be made
+Refer to the [ROS setup tutorial](https://www.jetbrains.com/help/clion/ros-setup-tutorial.html)  
+In addition, for compatibility with `catkin build` and `catkin_make` the following settings should be made
 
 - open **File | Settings | Build, Execution, Deployment | CMake**
 - Change the value of **CMake options** to `-DCATKIN_DEVEL_PREFIX=. /devel`

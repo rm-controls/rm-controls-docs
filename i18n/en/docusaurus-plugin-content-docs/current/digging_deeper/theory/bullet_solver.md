@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-## Barrel angle solver
+# Barrel Angle Solver
 
 ## Overview
 

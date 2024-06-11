@@ -7,13 +7,13 @@ const katex = require("rehype-katex");
 module.exports = {
   title: "rm-controls documentation",
   tagline: "",
-  url: "https://rm-controls.github.io",
+  url: "https://rm-control-docs.netlify.app",
   baseUrl: "/",
   onBrokenLinks: "warn",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
   organizationName: "rm-controls",
-  projectName: "rm-controls.github.io",
+  projectName: "rm-control-website",
   trailingSlash: false,
   i18n: {
     defaultLocale: "zh-CN",
@@ -100,12 +100,12 @@ module.exports = {
           routeBasePath: "/",
           sidebarPath: require.resolve("./sidebars.js"),
           editUrl:
-            "https://github.com/rm-controls/rm-controls.github.io/tree/master",
+            "https://github.com/rm-controls/rm-control-website/tree/master",
         },
         blog: {
           showReadingTime: true,
           editUrl:
-            "https://github.com/rm-controls/rm-controls.github.io/tree/master",
+            "https://github.com/rm-controls/rm-control-website/tree/master",
         },
         theme: {
           customCss: require.resolve("./src/scss/application.scss"),

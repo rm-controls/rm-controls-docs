@@ -9,7 +9,8 @@ sidebar_position: 2
 
 ## ROS 配置
 
-参考 [ROS setup tutorial](https://www.jetbrains.com/help/clion/ros-setup-tutorial.html) 此外，为了兼容 `catkin build` 和 `catkin_make` 应作如下设置
+参考 [ROS setup tutorial](https://www.jetbrains.com/help/clion/ros-setup-tutorial.html)  
+此外，为了兼容 `catkin build` 和 `catkin_make` 应作如下设置
 
 - 打开 **File | Settings | Build, Execution, Deployment | CMake**
 - 将 **CMake options** 的值更改为 `-DCATKIN_DEVEL_PREFIX=../devel`
