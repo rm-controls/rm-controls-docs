@@ -30,9 +30,7 @@ export default function GetStarted() {
     },
     {
       bg: useBaseUrl("img/ic-plugin-bg.svg"),
-      icon: useBaseUrl(
-        "http://gazebosim.org/assets/logos/gazebo_vert_pos-faad8cc37ab336f850e549077ef5831e5098034532113b06328dfd70355fb8f7.svg"
-      ),
+      icon: useBaseUrl("img/homepage/gazebo.svg"),
       type: "plugin",
       label: (
         <Translate
